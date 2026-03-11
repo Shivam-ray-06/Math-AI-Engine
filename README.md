@@ -66,3 +66,16 @@ Find orbital velocity.
 Formula:
 
 v = √(μ / r)
+
+
+## Architecture
+
+The system combines three components:
+
+1. DeepSeek Math reasoning model
+2. Structured reasoning prompts
+3. Symbolic mathematics engine
+
+The model generates step-by-step reasoning to solve complex problems.
+
+
